@@ -1,0 +1,16 @@
+{
+  "stories": [
+    {
+      "title": "Story 1",
+      "imageURL": "https://example.com/image1.jpg"
+    },
+    {
+      "title": "Story 2",
+      "imageURL": "https://example.com/image2.jpg"
+    },
+    {
+      "title": "Story 3",
+      "imageURL": "https://example.com/image3.jpg"
+    }
+  ]
+}
