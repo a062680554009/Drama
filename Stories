@@ -2,15 +2,15 @@
   "stories": [
     {
       "title": "Story 1",
-      "imageURL": "https://example.com/image1.jpg"
+      "imageURL": "https://pbs.twimg.com/media/GfBMBZ6XAAABzBF?format=png&name=240x240"
     },
     {
       "title": "Story 2",
-      "imageURL": "https://example.com/image2.jpg"
+      "imageURL": "https://pbs.twimg.com/media/GfBMBZ6XAAABzBF?format=png&name=240x240"
     },
     {
       "title": "Story 3",
-      "imageURL": "https://example.com/image3.jpg"
+      "imageURL": "https://pbs.twimg.com/media/GfBMBZ6XAAABzBF?format=png&name=240x240"
     }
   ]
 }
