@@ -2,40 +2,11 @@
   "movies": [
     {
       "title": "Movie 1",
-      "description": "A thrilling adventure movie filled with action and mystery.",
-      "imageURL": "https://pbs.twimg.com/media/Ge_hImHXUAAIPmv?format=png",
+      "description": "A thrilling adventure movie filled with action.",
+      "imageURL": "https://example.com/movie1.png",
       "episodes": [
-        { "name": "Episode 1", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 2", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 3", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" }
-      ]
-    },
-    {
-      "title": "Movie 2",
-      "description": "An epic journey through time and space to save humanity.",
-      "imageURL": "https://pbs.twimg.com/media/Ge_hImHXUAAIPmv?format=png",
-      "episodes": [
-        { "name": "Episode 1", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 2", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" }
-      ]
-    },
-    {
-      "title": "Movie 3",
-      "description": "A heartwarming story about friendship and overcoming challenges.",
-      "imageURL": "https://pbs.twimg.com/media/Ge_hImHXUAAIPmv?format=png",
-      "episodes": [
-        { "name": "Episode 1", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" }
-      ]
-    },
-    {
-      "title": "Movie 4",
-      "description": "A gripping tale of survival in the face of extreme odds.",
-      "imageURL": "https://pbs.twimg.com/media/Ge_hImHXUAAIPmv?format=png",
-      "episodes": [
-        { "name": "Episode 1", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 2", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 3", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" },
-        { "name": "Episode 4", "videoURL": "https://drive.google.com/uc?export=download&id=1mdAXgGo2GzZ32ouX25HMvjdN_Tr4Z8g1" }
+        { "name": "Episode 1", "videoURL": "https://example.com/ep1.mp4" },
+        { "name": "Episode 2", "videoURL": "https://example.com/ep2.mp4" }
       ]
     }
   ]
