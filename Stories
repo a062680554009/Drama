@@ -2,27 +2,27 @@
   "stories": [
     {
       "title": "Story 1",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nwFCWYAAEZb0?format=png"
     },
     {
       "title": "Story 2",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nwFFWEAArIne?format=png"
     },
     {
       "title": "Story 3",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nwFFXIAAPKhd?format=png"
     },
     {
       "title": "Story 3",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nwFHW8AAPVDT?format=png"
     },
     {
       "title": "Story 3",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nzWwXwAAax_Z?format=png"
     },
     {
       "title": "Story 3",
-      "imageURL": "https://pbs.twimg.com/media/GfBQ0NAW8AA_VWY?format=jpg&name=small"
+      "imageURL": "https://pbs.twimg.com/media/Gf5nzWsXIAAfnhd?format=png"
     }
   ]
 }
